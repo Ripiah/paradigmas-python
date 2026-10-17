@@ -1,0 +1,5 @@
+print("Primeira aula de Python")
+print("=" * 23)
+nome=input("Nome: ")
+idade=int(input("Idade: "))
+print(f"Olá, {nome}. Você possui {idade} anos.")
